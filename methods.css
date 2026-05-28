@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    width: 100%;
+    height: 100%;
+}
+/* p{
+  display: inline block; 
+  width: 100px;
+  height: 100px;
+  background-color: blue; 
+
+} */
+ /* a{
+    display: block;
+ } */
+/* #car1{
+    width: 100px;
+    height: 140px;
+    background-color: red;
+}
+#car2{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    width: 80px;
+    height: 120px;
+    background-color: pink;
+
+}
+#car3{
+    width: 105px;
+    height: 90px;
+    background-color: blue;
+} */
+/* #box{
+    position: relative;
+    width: 200px;
+    height: 100px;
+    background-color: red;
+}
+#cube{
+   position: absolute;
+    left: 20%;
+    width: 10px;
+    height: 10px;
+    background-color: black;
+} */
+
+#box{
+    width: 300px;
+    height: 300px;
+    background: url(https://wallpaperaccess.com/full/4723250.jpg);
+    background-size: cover;
+    background-position: center;
+    background: linear-gradient(to right,red,black,green);
+}
