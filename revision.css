@@ -8,7 +8,7 @@ html,body{
     height: 100%;
 
 }
-#parents{
+/* #parents{
     width: 600px;
     height: 200px;
     overflow: hidden;
@@ -18,4 +18,16 @@ html,body{
     width: 100vw;
     height: 100vh;
     background-color: yellow;
+} */
+/* #box{
+    width: 600px;
+    height: 300px;
+    border: 4px dashed red;
+    border-radius: 50%;
+    background-color: blueviolet;
+} */
+#div{
+    width: 100px;
+    height: 200px;
+    background-color: red;
 }
